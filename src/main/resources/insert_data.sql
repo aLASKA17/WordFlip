@@ -1,0 +1,1 @@
+INSERT INTO flashcards (deck, term, answer) VALUES (?, ?, ?);
